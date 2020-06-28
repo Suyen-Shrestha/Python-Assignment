@@ -1,0 +1,1 @@
+print('Already done in solution no. 1!')
